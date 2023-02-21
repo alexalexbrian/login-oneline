@@ -1,5 +1,5 @@
 
-## Ejemplo de iniciar sesión con lavarel usando middleware.
+## Ejemplo de iniciar sesión con lavarel usando middleware NATIVO.
 
 Necesitas ejecutar las migraciones para crear 3 bases de datos, users, user_metadata, perfil
 
