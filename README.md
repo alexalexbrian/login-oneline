@@ -7,6 +7,13 @@ Necesitas ejecutar las migraciones para crear 3 bases de datos, users, user_meta
 
 Tambien se adjunta base de datos 
 
+Requiere:
+
+composer install 
+
+
+Requiere 
+composer install 
 
 Usuario en la base de datos: 
 
