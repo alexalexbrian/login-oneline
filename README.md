@@ -10,6 +10,7 @@ Tambien se adjunta base de datos
 Requiere:
 
 php artisan migrate
+
 composer install 
 
 Usuario en la base de datos: 
